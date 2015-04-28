@@ -1,6 +1,11 @@
-forked from [tmp demo group](https://github.com/tmp-demo/touch-me-together) to supply a Docker image.  
-All credits go to: http://tmp.graphics.  
-Thx for this funny game!!!
+forked from [tmp demo group](https://github.com/tmp-demo/touch-me-together) to supply a [Docker image](https://registry.hub.docker.com/u/chris1911/rev2015-touch-me-together/). Get ready:
+
+```
+	docker pull chris1911/rev2015-touch-me-together  
+	docker run -d -p 3000:3000 chris1911/rev2015-touch-me-together
+```  
+
+All credits go to: [tmp.graphics](http://tmp.graphics). Thx for this funny demo!!!
 
 Original Readme.md follows:
 # Touch me together
