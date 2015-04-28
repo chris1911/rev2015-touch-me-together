@@ -1,9 +1,8 @@
-forked from [tmp demo group](https://github.com/tmp-demo/touch-me-together) to supply a Docker image.
-All credits go to: http://tmp.graphics
+forked from [tmp demo group](https://github.com/tmp-demo/touch-me-together) to supply a Docker image.  
+All credits go to: http://tmp.graphics.  
 Thx for this funny game!!!
 
-Original Readme follows:
-
+Original Readme.md follows:
 # Touch me together
 
 > Multiplayer rhythm game released at the [Revision 2015](http://2015.revision-party.net/) with 122 players!
